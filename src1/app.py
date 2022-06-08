@@ -1,6 +1,6 @@
 
 import numpy as np
-from src1.all_logic_gates import logic_gates
+from all_logic_gates import logic_gates
     
 
 def insert_column_one(matrix):
